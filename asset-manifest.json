@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/linkedin--pdf-downlaod/static/css/main.63027afa.css",
+    "main.js": "/linkedin--pdf-downlaod/static/js/main.85ced7d7.js",
+    "static/js/498.da32348d.chunk.js": "/linkedin--pdf-downlaod/static/js/498.da32348d.chunk.js",
+    "static/js/703.6196f641.chunk.js": "/linkedin--pdf-downlaod/static/js/703.6196f641.chunk.js",
+    "static/js/9.6fc2bb75.chunk.js": "/linkedin--pdf-downlaod/static/js/9.6fc2bb75.chunk.js",
+    "static/media/university.jpg": "/linkedin--pdf-downlaod/static/media/university.3b0224b4eb32b00cc94a.jpg",
+    "static/media/cover.jfif": "/linkedin--pdf-downlaod/static/media/cover.4c71c5ea1d51191c4346.jfif",
+    "static/media/profile.jfif": "/linkedin--pdf-downlaod/static/media/profile.cad5a3ce9b460bbc40d9.jfif",
+    "static/media/company_logo.jfif": "/linkedin--pdf-downlaod/static/media/company_logo.58b4f2a29121aa8345e0.jfif",
+    "index.html": "/linkedin--pdf-downlaod/index.html",
+    "main.63027afa.css.map": "/linkedin--pdf-downlaod/static/css/main.63027afa.css.map",
+    "main.85ced7d7.js.map": "/linkedin--pdf-downlaod/static/js/main.85ced7d7.js.map",
+    "498.da32348d.chunk.js.map": "/linkedin--pdf-downlaod/static/js/498.da32348d.chunk.js.map",
+    "703.6196f641.chunk.js.map": "/linkedin--pdf-downlaod/static/js/703.6196f641.chunk.js.map",
+    "9.6fc2bb75.chunk.js.map": "/linkedin--pdf-downlaod/static/js/9.6fc2bb75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63027afa.css",
+    "static/js/main.85ced7d7.js"
+  ]
+}
